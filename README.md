@@ -30,7 +30,7 @@ La lista contiene:
 
 Para utilizar la lista:
 
-1.  Copia la URL **"Raw" (sin formato)** del Gist que se encuentra en el enlace anterior.
+1.  Copia la URL [**Raw (sin formato)**](https://gist.github.com/frantdse/0fb0ee8328e393e01fb5a7e6d35c64be/raw/)del Gist que se encuentra en el enlace anterior.
 2.  Pégala en tu reproductor IPTV favorito (como VLC, Kodi, IPTV Smarters, Tivimate, etc.).
 
 ---
