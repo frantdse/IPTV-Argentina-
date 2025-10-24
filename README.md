@@ -30,7 +30,7 @@ La lista contiene:
 
 Para utilizar la lista:
 
-1.  Copia la URL [**Raw (sin formato)**](goo.su/hnCp) del Gist que se encuentra en el enlace anterior.
+1.  Copia la URL [**Raw (sin formato)**](https://goo.su/hnCp) del Gist que se encuentra en el enlace anterior.
 2.  Pégala en tu reproductor IPTV favorito (como VLC, Kodi, IPTV Smarters, Tivimate, etc.).
 
 ---
