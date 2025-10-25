@@ -35,5 +35,4 @@ Para utilizar la lista:
 
 ---
 *Para más información, enlaces directos y soporte, visita la web oficial:* [vitileiptvargentina.netlify.app/]
-
 (https://vitileiptvargentina.netlify.app/)
