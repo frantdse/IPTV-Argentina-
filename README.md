@@ -34,5 +34,6 @@ Para utilizar la lista:
 2.  Pégala en tu reproductor IPTV favorito (como VLC, Kodi, IPTV Smarters, Tivimate, etc.).
 
 ---
-*Para más información, enlaces directos y soporte, visita la web oficial:* [cheerful-pie-04f94b.netlify.app/]
+*Para más información, enlaces directos y soporte, visita la web oficial:* [vitileiptvargentina.netlify.app/]
+
 (https://vitileiptvargentina.netlify.app/)
