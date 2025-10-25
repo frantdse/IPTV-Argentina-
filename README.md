@@ -30,7 +30,7 @@ La lista contiene:
 
 Para utilizar la lista:
 
-1.  Copia la URL [**Raw (sin formato) que se encuentra en la pagina web oficial**]() del Gist que se encuentra en el enlace anterior.
+1.  Copia la URL [**Raw (sin formato) que se encuentra en la pagina web oficial**](https://cheerful-pie-04f94b.netlify.app/) del Gist que se encuentra en el enlace anterior.
 2.  Pégala en tu reproductor IPTV favorito (como VLC, Kodi, IPTV Smarters, Tivimate, etc.).
 
 ---
